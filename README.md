@@ -1,7 +1,6 @@
 # MOTION TRACKING
+This is developed as a part of open science initiative for perfusion imaging (OSIPI)'s Quality Control toolbox, for gsoc'26.
 Motion tracking module in the qc tool for asl-mri
-This is developed as a part of gsoc'26,To the open science initiative for perfusion imaging (OSIPI)'s Quality Control toolbox
-
 
 # To use it :
 1. clone the repo
