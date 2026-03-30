@@ -8,3 +8,4 @@ Motion tracking module in the qc tool for asl-mri
 3. python3 motiontracking.py "path to your file"
 4. and run
    
+this gives flags in the cli with the graphs generated in the 'outputs' folder
