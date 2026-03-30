@@ -6,3 +6,5 @@ This is developed as a part of gsoc'26,To the open science initiative for perfus
 # TO USE IT :
 1. clone the repo
 2. python motiontracking.py "path to your file"
+3. and run.
+   
